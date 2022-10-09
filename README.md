@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://discord.gg/x9hwwmGQze"><img src="https://simpleicons.org/icons/discord.svg"/></a>
