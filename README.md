@@ -2,13 +2,11 @@
 
 <div align="center">
   :bulb:  teenager developer  :bulb:
-</div>
   
-  <div class="notice--primary" markdown="1">
     Hello, I am a 15-year-old student developer.
     I want to master all languages!:earth_asia:
-  </div>
-
+  
+</div>
 
 ---
 
