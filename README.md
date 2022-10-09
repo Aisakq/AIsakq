@@ -5,4 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisakq&layout=compact)
 ![Aisakq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aisakq&theme=default&show_icons=true)
 
-![footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=footer&text=Welcome%20!&fontSize=100)
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=footer)
