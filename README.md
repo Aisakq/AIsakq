@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  <h1> 💻I used languages 💻 </h1>
+  <h1> 💻 languages 💻 </h1>
   
 </div>
 
