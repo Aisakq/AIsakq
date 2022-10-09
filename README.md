@@ -15,6 +15,8 @@
   
   <h1> 💻 languages 💻 </h1>
   
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  
 </div>
 
 <a href="https://discord.gg/x9hwwmGQze" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
