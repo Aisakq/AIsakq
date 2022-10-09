@@ -3,13 +3,12 @@
 <div align="center">
   
   # :bulb:  teenager developer  :bulb:
-
-</div>
   
   Hello🖐️, I am a 15-year-old student developer.
-  {: .notice}
+  
   I want to master all languages!🌏
-  {: .notice}
+  
+</div>
 
 ---
 
