@@ -4,8 +4,9 @@
   <h1>:bulb:  teenager developer  :bulb:</h1>
   
   Hello🖐️, I am a 15-year-old student developer.
-  
+  {: .notice}
   I want to master all languages!🌏
+  {: .notice}
   
 </div>
 
@@ -27,5 +28,7 @@
  </div>
 
 <div align="right">
-<a href="https://discord.gg/DmtK48wGmY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+  
+  <a href="https://discord.gg/DmtK48wGmY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+  
 </div>
