@@ -4,11 +4,12 @@
   <h1>:bulb:  teenager developer  :bulb:</h1>
   
     Hello, I am a 15-year-old student developer.
-    I want to master all languages!:earth_asia:
+    I want to master all languages!🌏
   
 </div>
 
 ---
+
 
 <a href="https://discord.gg/x9hwwmGQze" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 
