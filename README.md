@@ -3,9 +3,8 @@
 <div align="center">
   :bulb:  teenager developer  :bulb:
 
-  Hello, I am a 15-year-old student developer.
-  I want to master all languages!:earth_asia:
-  {: .text-center}
+  {: Hello, I am a 15-year-old student developer.
+  I want to master all languages!:earth_asia:.text-center}
 </div>
 
 ---
