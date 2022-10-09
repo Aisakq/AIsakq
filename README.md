@@ -15,7 +15,7 @@
   
   <h1> 💻 languages 💻 </h1>
   
-  <img src="https://img.shields.io/badge/Kotlin-4169E1?style=flat-square&logo=Kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   
 </div>
 
