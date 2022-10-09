@@ -3,7 +3,7 @@
 <div align="center">
   <h1>:bulb:  teenager developer  :bulb:
   
-    <h2Hello, I am a 15-year-old student developer.
+    <h2>Hello, I am a 15-year-old student developer.
     I want to master all languages!:earth_asia:
   
 </div>
