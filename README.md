@@ -4,9 +4,9 @@
   
   # :bulb:  teenager developer  :bulb:
   
-  *Hello🖐️, I am a 15-year-old student developer.
+  *Hello🖐️, I am a 15-year-old student developer.*
   
-  I want to master all languages!🌏*
+  *I want to master all languages!🌏*
   
 </div>
 
