@@ -4,10 +4,10 @@
   :bulb:  teenager developer  :bulb:
 </div>
   
-  Hello, I am a 15-year-old student developer.
-  {: .notice--primary}
-  I want to master all languages!:earth_asia:
-  {: .notice--primary}
+  <div class="notice--primary" markdown="1">
+    Hello, I am a 15-year-old student developer.
+    I want to master all languages!:earth_asia:
+  </div>
 
 
 ---
