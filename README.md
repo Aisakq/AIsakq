@@ -30,6 +30,6 @@
 <div align="right">
   
   <a href="https://discord.gg/DmtK48wGmY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-  <a href="365c.kro.kr" target="_blank"><img src="https://img.shields.io/badge/page-rightblue?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="365c.kro.kr" target="_blank"><img src="https://img.shields.io/badge/page-right blue?style=flat&logo=Discord&logoColor=white"/></a>
   
 </div>
