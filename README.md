@@ -3,9 +3,8 @@
 <div align="center">
   :bulb:  teenager developer  :bulb:
 
-  `Hello, I am a 15-year-old student developer.
-  <br/>
-  I usually use kotlin, python, java, javascript`
+  `Hello, I am a 15-year-old student developer.`
+  `I usually use kotlin, python, java, javascript`
 </div>
 
 ---
