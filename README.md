@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!&fontSize=100)
 
 <div align="center">
-  #:bulb:  teenager developer  :bulb:
+  
+  # :bulb:  teenager developer  :bulb:
   
   Hello🖐️, I am a 15-year-old student developer.
   
@@ -13,7 +14,7 @@
 
 <div align="center">
   
-  #💻 languages 💻
+  # 💻 languages 💻
   
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0091BD?style=flat-square&logo=Java&logoColor=white"/>
