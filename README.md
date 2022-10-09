@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!&fontSize=100)
 
 <div align="center">
-  <h1>:bulb:  teenager developer  :bulb:
+  <h1>:bulb:  teenager developer  :bulb:</h1>
   
-<h2>Hello, I am a 15-year-old student developer.
+    Hello, I am a 15-year-old student developer.
     I want to master all languages!:earth_asia:
   
 </div>
