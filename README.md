@@ -26,5 +26,5 @@
 ![Aisakq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aisakq&theme=default&show_icons=true)
 
 <div align="right">
-<a href="https://discord.gg/x9hwwmGQze" target="_blank"><img src="https://img.shields.io/badge/Discord Server-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://discord.gg/DmtK48wGmY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </div>
