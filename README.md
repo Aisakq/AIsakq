@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+---
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aisakq&layout=compact)
   ![Aisakq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aisakq&theme=default&show_icons=true)
 
