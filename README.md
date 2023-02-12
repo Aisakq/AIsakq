@@ -49,7 +49,7 @@
 
 <div align="right">
   
-  <a href="https://discord.com/TZDvsQq6sN" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="https://discord.com/invite/TZDvsQq6sN" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
   <a href="https://aisakq.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=flat&logo=books&logoColor=white"/></a>
   
 </div>
